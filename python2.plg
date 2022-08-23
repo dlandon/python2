@@ -48,7 +48,7 @@ README.md
 <FILE Name="/usr/local/emhttp/plugins/&name;/README.md">
 <INLINE>
 <![CDATA[
-**Python 3**
+**Python 2**
 
 Python 2 package.
 ]]>
