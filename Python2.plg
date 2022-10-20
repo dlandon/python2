@@ -5,7 +5,7 @@
 <!ENTITY version	"2022.08.23">
 <!ENTITY launch		"">
 <!ENTITY gitURL		"https://raw.githubusercontent.com/&author;/&name;/master">
-<!ENTITY pluginURL	"&gitURL;/&name;.plg">
+<!ENTITY pluginURL	"&gitURL;/Python2.plg">
 <!ENTITY supportURL	"https://forums.unraid.net/topic/92865-support-ich777-amd-vendor-reset-coraltpu-hpsahba/">
 <!ENTITY packages	"/boot/config/plugins/&name;/packages">
 ]>
