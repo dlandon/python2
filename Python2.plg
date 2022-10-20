@@ -61,8 +61,8 @@ Python 2 package.
 <!--
 python2 icon
 -->
-<FILE Name="/boot/config/plugins/&name;/images/python2.png">
-<URL>"&gitURL;/images/python2.png"</URL>
+<FILE Name="/boot/config/plugins/&name;/images/Python2.png">
+<URL>"&gitURL;/images/Python2.png"</URL>
 </FILE>
 
 <!--
@@ -72,7 +72,7 @@ The 'post-install' script.
 <INLINE>
 # Copy icon.
 mkdir -p /usr/local/emhttp/plugins/&name;/images/
-cp /boot/config/plugins/&name;/images/python2.png /usr/local/emhttp/plugins/&name;/images/python2.png
+cp /boot/config/plugins/&name;/images/Python2.png /usr/local/emhttp/plugins/&name;/images/python2.png
 
 # Set emhttp folder permissions.
 chown -R root:root /usr/local/emhttp/plugins/&name;/
