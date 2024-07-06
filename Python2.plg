@@ -2,7 +2,7 @@
 <!DOCTYPE PLUGIN [
 <!ENTITY name		"python2">
 <!ENTITY author		"dlandon">
-<!ENTITY version	"2022.08.23">
+<!ENTITY version	"2024.07.06">
 <!ENTITY launch		"">
 <!ENTITY gitURL		"https://raw.githubusercontent.com/&author;/&name;/master">
 <!ENTITY pluginURL	"&gitURL;/Python2.plg">
@@ -22,6 +22,9 @@
 <CHANGES>
 ##&name;
 ###&version;
+- Fix: Set max Unraid version to 6.12.10.
+
+###2022.08.23
 - Fix: Cleanup of files on /boot/.
 
 ###2022.08.23
