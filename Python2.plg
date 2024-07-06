@@ -17,7 +17,7 @@
 		pluginURL="&pluginURL;"
 		support="&supportURL;"
 		min="6.11.0-rc3";
-		max="6.12.99">
+		max="6.12.10">
 
 <CHANGES>
 ##&name;
